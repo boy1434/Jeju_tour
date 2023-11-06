@@ -1,5 +1,19 @@
 footer{
-  background-color:#849d13;
-  color:white;
+  background-image:url(https://marinefaculty.files.wordpress.com/2018/04/img_0097.jpg?);
+  color:black;
   
 }
+
+.first-line {
+  border-bottom: 1px solid #392d23;
+}
+
+.second-line a{
+ text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  color:greenyellow;
+}
+
